@@ -7,6 +7,8 @@
 characteristics of the most viewed boat listings in the last 7 days.
 
 - The dataset has the following columns:
+
+
 | Column Name                 | Details                                                                                      |
 |-----------------------------|----------------------------------------------------------------------------------------------|
 | Price                       | Character, boat price listed in different currencies (e.g. EUR, Â£, CHF etc.) on the website |
